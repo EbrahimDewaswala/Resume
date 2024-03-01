@@ -22,7 +22,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ebrahimd/
 
 ## 🎉 Let's Connect!
 
-Let's embark on an epic journey through the realms of code, creativity, and career aspirations! Together, we'll blaze a trail of innovation and leave a lasting legacy in the annals of cyberspace. Join me, and let's make magic happen! 🚀✨
+Let's embark on an epic journey through the realms of code, creativity, and career aspirations! Together, we'll blaze a trail of innovation and leave a lasting legacy in the world of web development. Join me, and let's make magic happen! 🚀✨
 
 ____________________________
 (c) Ebrahim Yusuf Dewaswala
