@@ -24,5 +24,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ebrahimd/
 
 Let's embark on an epic journey through the realms of code, creativity, and career aspirations! Together, we'll blaze a trail of innovation and leave a lasting legacy in the world of software development. Join me, and let's make magic happen! 🚀✨
 
+## 🏆 View My Resume : <a href="https://ebrahimdewaswala.github.io/Resume/">Visit Here</a>
 ____________________________
 (c) Ebrahim Yusuf Dewaswala
